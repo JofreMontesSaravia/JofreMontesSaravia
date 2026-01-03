@@ -62,8 +62,8 @@ Hi, I'm Jofre Montes!
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:jofremontessaravia15@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: jofremontessaravia15@gmail.com" style="margin-bottom: 5px;" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jofremontessaravia15@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/alexmsaravia/" target="_blank">
